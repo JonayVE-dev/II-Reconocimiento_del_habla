@@ -1,4 +1,4 @@
-# II-Reconocimiento_del_habla
+# II-Reconocimiento del habla
 
 A continuación se muestran varios gifs de los ejercicios realizados en la práctica.
 
