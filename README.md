@@ -1,4 +1,4 @@
-# II-Sensors
+# II-Reconocimiento_del_habla
 
 A continuación se muestran varios gifs de los ejercicios realizados en la práctica.
 
